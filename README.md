@@ -14,3 +14,5 @@ Execute ->
 $ java -cp "../build:../lib/jung/algos.jar:../lib/jung/api.jar:../lib/jung/collections.jar:../lib/jung/graph_api.jar:../lib/jung/vizualization.jar" vue.Demo
 
 ![Alt text](image/demoAnalyse.png?raw=true "Title")
+
+Developped by Olivier COCHARD, Alexis PESTEL and Quentin DUMONT
